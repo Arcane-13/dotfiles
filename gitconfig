@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = kelvin.angoston@outlook.fr
+	name = Kelvin Angoston
